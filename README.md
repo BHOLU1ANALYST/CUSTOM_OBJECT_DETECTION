@@ -1,2 +1,2 @@
 # CUSTOM_OBJECT_DETECTION
-Using labelImg annotation , YOLOV4 I trained a model that can detect multiple object .
+Using labelImg annotations tool , YOLOV4 I trained a model that can detect multiple object .
